@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Snowman](https://cdn.vox-cdn.com/thumbor/U5_J1XTaN9krYtlzY6a2Lsj-YjA=/10x0:4281x3203/1200x800/filters:focal(10x0:4281x3203)/cdn.vox-cdn.com/uploads/chorus_image/image/45217580/shutterstock_125246687.0.0.jpg)
